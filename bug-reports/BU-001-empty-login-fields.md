@@ -33,6 +33,4 @@ The user remains on the login page, but no validation or error message is displa
 
 Users who submit the login form without credentials receive no explanation of why the attempt did not proceed.
 
-## Evidence
-
 
