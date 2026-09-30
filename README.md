@@ -69,7 +69,6 @@ A total of **16 unique test cases** were executed.
 | FAIL / INCONCLUSIVE | 1 | 6.25% |
 | **Total** | **16** | **100%** |
 
-> One previously documented test case was identified as a duplicate and removed from the final test count.
 
 ## Key Findings
 
