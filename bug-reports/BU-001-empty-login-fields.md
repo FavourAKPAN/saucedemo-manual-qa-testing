@@ -35,6 +35,4 @@ Users who submit the login form without credentials receive no explanation of wh
 
 ## Evidence
 
-Add screenshot as:
 
-`screenshots/login/BU-001.png`
