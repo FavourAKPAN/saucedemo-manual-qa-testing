@@ -32,4 +32,3 @@
 | TS-016 | Verify checkout completion with valid payment details |
 | TS-017 | Verify Continue Shopping after successful checkout |
 
-> Note: Test scenarios are broader than the 16 executed test cases. Some scenarios were explored during testing without being converted into separate executed cases.
