@@ -33,8 +33,3 @@ The user remains on the login page, but no validation or error message is displa
 
 Users who forget to enter a password do not receive feedback explaining which required field needs attention.
 
-## Evidence
-
-Add screenshot as:
-
-`screenshots/login/BU-002.png`
