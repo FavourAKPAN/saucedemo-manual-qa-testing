@@ -100,5 +100,5 @@ Testing was performed manually using predefined scenarios and test cases. Positi
 
 Testing was limited to manual functional testing on one device/browser combination. Results therefore do not represent behaviour across all devices, browsers, network conditions, or configurations.
 
-**Tester:** Fave  
+**Tester:** Favour Akpan
 **Testing Status:** Completed
